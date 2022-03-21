@@ -1,4 +1,4 @@
-### Hi there 👋 I am Leah Ball
+### Hi there 👋 I am Leah Ball | Full Stack Web Developer | Creative Powerhouse
  - I am a full stack web developer from Chicago, IL
  - I have BFA in Design from UT-ATX
  - I am a student at Bloom Tech (FKA Lambda)
