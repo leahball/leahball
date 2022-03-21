@@ -1,9 +1,9 @@
 ### Hi there 👋 I am Leah Ball
-#+I am a full stack web developer from Chicago, IL
-#+I have BFA in Design from UT-ATX
-#+I am a student at Bloom Tech (FKA Lambda)
+# - I am a full stack web developer from Chicago, IL
+# - I have BFA in Design from UT-ATX
+# - I am a student at Bloom Tech (FKA Lambda)
 
-##I have spent the last decade innovating as an artist entrepreneur and am now taking that grit, disernment and creative thinking into Tech!
+##I have spent the last decade innovating as an artist entrepreneur and am now taking that grit, discernment and creative thinking into Tech!
 
 
 - 🔭 I’m currently working on ... An interactive game about Octopuses 🐙
