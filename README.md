@@ -11,7 +11,7 @@ I have spent the last decade innovating as an artist entrepreneur and am now tak
 - 🌱 I’m currently learning ... Motion Graphics and PHP, 
      follow along here: www.leahball.dev
 
-- ⚡ Fun fact: ... I have an unconventional path into tech! I have a background in analog production methods-metal foundry work and ceramics production, I love to learn all the steps for bringing dreams into reality. I am now applying that curiosity into programming and tech!
+- ⚡ Fun fact: ... I have an unconventional path into tech! I have a background in analog production methods-metal foundry work and ceramics production, I love to learn all the steps for bringing dreams into reality. I am now applying that curiosity and determintation into programming and tech!
 
 
 
