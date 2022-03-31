@@ -1,16 +1,14 @@
 ### Hi there 👋 I am Leah Ball | Full Stack Web Developer | Creative Powerhouse
- - I am a full stack web developer from Chicago, IL
+<h3>A passionate frontend developer and designer from Chicago</h3>
+
  - I have BFA in Design from UT-ATX
  - I am a student at Bloom Tech (FKA Lambda)
-
-<h1 align="center">Hi 👋, I'm Leah</h1>
-<h3 align="center">A passionate frontend developer and designer from Chicago</h3>
 
 - 🔭 I’m currently working on [on an interactive game about Octopuses using React, Redux, Styled Components and my own original Illustrations 🐙](https://octopus-galaxy.vercel.app/)
 
 - 🌱 I’m currently learning **Motion Graphics, data + algorithims, and PHP**
 
-- 👯 I’m looking to collaborate on **creative challenges that explore nature.**
+- 👯 I’m looking to collaborate on **creative challenges that explore nature**
 
 - 👨‍💻 All of my projects are available at [www.leahball.dev](www.leahball.dev)
 
@@ -18,7 +16,7 @@
 
 - 📫 How to reach me **leah.ball@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1aIrsCt9M2vNfodNfWlDDeD_tApF53SJCfmBlZEYN81U/edit?usp=sharing](https://docs.google.com/document/d/1aIrsCt9M2vNfodNfWlDDeD_tApF53SJCfmBlZEYN81U/edit?usp=sharing)
+- 📄 Know about my experiences [resume link](https://docs.google.com/document/d/1aIrsCt9M2vNfodNfWlDDeD_tApF53SJCfmBlZEYN81U/edit?usp=sharing)
 
 - ⚡ Fun fact **I think the fact that everything on this planet is made up the same stuff just organized differently. For example Octopuses have retinal cells (which we have behind out eyes) all over their skin.**
 
