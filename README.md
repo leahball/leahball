@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [resume link](https://docs.google.com/document/d/1aIrsCt9M2vNfodNfWlDDeD_tApF53SJCfmBlZEYN81U/edit?usp=sharing)
 
-- ⚡ Fun fact **I think the fact that everything on this planet is made up the same stuff just organized differently. For example Octopuses have retinal cells (which we have behind out eyes) all over their skin.**
+- ⚡ Fun fact **I think the fact that everything on this planet is made up the same stuff just organized differently is magically cool. For example Octopuses have retinal cells (which we have behind out eyes) all over their skin!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
