@@ -2,7 +2,7 @@
 <h3>A passionate frontend developer and designer from Chicago</h3>
 
  - I have BFA in Design from UT-ATX
- - I am a student at Bloom Tech (FKA Lambda)
+ - I am a former student at Bloom Tech (FKA Lambda)
 
 - 🔭 I’m currently working on [on an interactive game about Octopuses using React, Redux, Styled Components and my own original Illustrations 🐙](https://octopus-galaxy.vercel.app/)
 
