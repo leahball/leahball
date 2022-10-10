@@ -1,4 +1,4 @@
-### Hi there 👋 I am Leah Ball | Full Stack Web Developer | Creative Powerhouse
+### Hi there 👋 I am Leah Ball | Front-end Web Developer | Creative Powerhouse
 <h3>A passionate frontend developer and designer from Chicago</h3>
 
  - I have BFA in Design from UT-ATX
