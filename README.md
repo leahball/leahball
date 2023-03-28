@@ -10,10 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [www.leahball.dev](www.leahball.dev)
 
-- 📝 I regularly write articles on [https://medium.com/@leahball](https://medium.com/@leahball)
-
-- 📫 How to reach me **leah.ball@gmail.com**
-
 - 📄 Know about my experiences [resume link](https://docs.google.com/document/d/1aIrsCt9M2vNfodNfWlDDeD_tApF53SJCfmBlZEYN81U/edit?usp=sharing)
 
 - ⚡ Fun fact **I think the fact that everything on this planet is made up the same stuff just organized differently is magically cool. For example Octopuses have retinal cells (which we have behind our eyes) all over their skin!**
