@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on [on an interactive game about Octopuses using React, Redux, Styled Components and my own original Illustrations 🐙](https://octopus-galaxy.vercel.app/)
 
-- 🌱 I’m currently learning **ProtoPie, WebGL and Micro animations**
-
 - 👯 I’m looking to collaborate on **creative challenges that explore nature**
 
 - 👨‍💻 All of my projects are available at [www.leahball.dev](www.leahball.dev)
