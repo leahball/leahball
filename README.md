@@ -4,7 +4,7 @@ UX/UI designer and developer based in Chicago. I help clients make sure their di
 
 On the side I'm building the **Machine Legibility Index**: a framework for auditing how visible organizations are to AI agents, with a focus on communities that tend to get left out. It's a work in progress — I'm running a housing accessibility study in Chicago to validate the methodology before publishing anything.
 
-- 👩‍💻 [leahball.com](https://leahball.com) *(refresh coming soon)* · [mxforgood.tech](https://www.mxforgood.tech)
+- 👩‍💻 [leahball.com](https://leahball.com) *(refresh coming soon)* 
 - 🎓 BFA in Design, UT Austin · Bloom Tech alum
 - ♊ Gemini. Always learning. Always chasing some new way to make sense of the human experience and find beauty in how we're all connected to each other and the world around us.
 - ⚡ When I'm not at a screen: analog art, writing vampire fantasy, and thinking about octopus consciousness. (Did you know they may experience color through photoreceptors in their *skin* despite being colorblind? Everything is made of the same stuff, just configured differently.)
