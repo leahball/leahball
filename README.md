@@ -1,6 +1,6 @@
 ### Hi, I'm Leah Ball
 
-UX/UI designer and developer based in Chicago. I help clients make sure their digital presence actually aligns with their goals and how they want people to experience it — currently as Associate Director of UX/UI at Fusion92.
+UX/UI designer and developer based in Chicago. I help clients make sure their digital presence actually aligns with their goals and how they want people to experience it — currently as Associate Director of UI/UX at Fusion92.
 
 On the side I'm building the **Machine Legibility Index**: a framework for auditing how visible organizations are to AI agents, with a focus on communities that tend to get left out. It's a work in progress — I'm running a housing accessibility study in Chicago to validate the methodology before publishing anything.
 
